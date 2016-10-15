@@ -1,5 +1,7 @@
+---
+---
 @charset "utf-8";
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -13,8 +15,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -25,7 +27,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
@@ -107,11 +109,11 @@ h2 {
   cursor: pointer;
 }
 
-img, 
-.interactions, 
+img,
+.interactions,
 .text,
-p, 
-ul li i:before, 
+p,
+ul li i:before,
 ul li i:after {
   transition: all 0.25s ease-in-out;
 }
@@ -153,7 +155,7 @@ html {
     left: 0;
   }
 }
- 
+
 p,
 .loader,
 .toggle,
@@ -311,7 +313,7 @@ footer a.icon:link {
   color:ç;
   border-bottom: none;
   cursor:pointer;
-} 
+}
 
 footer a.icon:hover {
   color:#f9a4aa;
@@ -356,7 +358,7 @@ footer a.topbutton:hover  {
   background: #C78A97;
 }
 
-.line:nth-child(3) { 
+.line:nth-child(3) {
   animation-delay: .45s;
   background: #F0C2B8;
 }
@@ -485,7 +487,7 @@ input:checked + .slider:before {
 
 /*text, div, footer, and img background styles*/
 .ingredients {
-  text-align: center;  
+  text-align: center;
   margin: 0 auto;
   padding-top: 5px;
   padding-right: 5px;

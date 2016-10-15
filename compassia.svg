@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 484" style="enable-background:new 0 0 800 484;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#6F363F;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#6F363F;}
+	.st2{font-family:'Lato-Regular';}
+	.st3{font-size:20px;}
+	.st4{fill:#C24551;}
+	.st5{font-size:18.0444px;}
+	.st6{fill:#F39F9F;}
+	.st7{font-size:14px;}
+	.st8{fill:#FFFFFF;stroke:#F39F9F;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<line class="st0" x1="428.2" y1="345.7" x2="507.2" y2="345.7"/>
+<line class="st0" x1="434.2" y1="319.3" x2="513.2" y2="319.3"/>
+<line class="st0" x1="546.8" y1="134" x2="546.8" y2="213"/>
+<line class="st0" x1="253.4" y1="134" x2="253.4" y2="213"/>
+<line class="st0" x1="106.4" y1="130" x2="106.4" y2="209"/>
+<line class="st0" x1="689.5" y1="144.7" x2="689.5" y2="250"/>
+<line class="st0" x1="397.7" y1="162" x2="397.7" y2="417.3"/>
+<rect x="335" y="33" class="st1" width="125" height="50"/>
+<text transform="matrix(1 0 0 1 358.3332 64)" class="st2 st3">PROFILE</text>
+<rect x="42" y="123.3" class="st4" width="128.9" height="38.7"/>
+<text transform="matrix(1 0 0 1 61.3263 148.8227)" class="st2 st5">Get Started</text>
+<rect x="188.9" y="123.3" class="st4" width="128.9" height="38.7"/>
+<text transform="matrix(1 0 0 1 200.1042 147.8227)" class="st2 st5">Register Card</text>
+<rect x="333.3" y="123.3" class="st4" width="128.9" height="38.7"/>
+<text transform="matrix(1 0 0 1 358.6374 147.8227)" class="st2 st5">Load Card</text>
+<rect x="480.2" y="123.3" class="st4" width="128.9" height="38.7"/>
+<text transform="matrix(1 0 0 1 528.3737 147.8227)" class="st2 st5">FAQ</text>
+<rect x="625" y="123.3" class="st4" width="128.9" height="38.7"/>
+<text transform="matrix(1 0 0 1 656.8015 147.8227)" class="st2 st5">Contact</text>
+<rect x="42" y="182.7" class="st6" width="128.9" height="32.3"/>
+<text transform="matrix(1 0 0 1 76.0299 203.9998)" class="st2 st7">Text Field</text>
+<rect x="188.9" y="182.7" class="st6" width="128.9" height="32.3"/>
+<text transform="matrix(1 0 0 1 222.9632 203.9998)" class="st2 st7">Text Field</text>
+<rect x="480.4" y="182.7" class="st6" width="128.9" height="32.3"/>
+<text transform="matrix(1 0 0 1 516.4006 203.9998)" class="st2 st7">Text Field</text>
+<rect x="625" y="182.7" class="st6" width="128.9" height="32.3"/>
+<text transform="matrix(1 0 0 1 659.0373 203.9998)" class="st2 st7">Text Field</text>
+<rect x="625" y="225.7" class="st6" width="128.9" height="32.3"/>
+<text transform="matrix(1 0 0 1 673.03 246.9998)" class="st2 st7">Form</text>
+<rect x="335.6" y="182.7" class="st6" width="128.9" height="52.7"/>
+<text transform="matrix(1 0 0 1 353.9194 203.9998)"><tspan x="0" y="0" class="st2 st7">Autoload Card </tspan><tspan x="21.8" y="16.8" class="st2 st7">Balance</tspan></text>
+<rect x="335.6" y="246" class="st6" width="128.9" height="52.7"/>
+<text transform="matrix(1 0 0 1 372.5464 267.3332)"><tspan x="0" y="0" class="st2 st7">Monthly </tspan><tspan x="-0.9" y="16.8" class="st2 st7">Spending</tspan></text>
+<rect x="335.6" y="308.7" class="st6" width="128.9" height="52.7"/>
+<text transform="matrix(1 0 0 1 364.2935 329.9998)"><tspan x="0" y="0" class="st2 st7">Upgrade to </tspan><tspan x="-5.6" y="16.8" class="st2 st7">Monthly Pass</tspan></text>
+<rect x="335.6" y="371" class="st6" width="128.9" height="52.7"/>
+<text transform="matrix(1 0 0 1 370.3906 392.3332)"><tspan x="0" y="0" class="st2 st7">Add New </tspan><tspan x="-4.5" y="16.8" class="st2 st7">Card Value</tspan></text>
+<rect x="480.4" y="308.7" class="st8" width="128.9" height="21.3"/>
+<rect x="480.2" y="335" class="st8" width="128.9" height="21.3"/>
+<text transform="matrix(1 0 0 1 529.8474 324.6668)" class="st2 st7">Adult</text>
+<text transform="matrix(1 0 0 1 511.6472 349.333)" class="st2 st7">Concession</text>
+</svg>

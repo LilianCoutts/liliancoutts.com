@@ -91,7 +91,7 @@ h1 {
   font-family: "Lato";
   text-transform: uppercase;
   padding: 20px;
-  background-color: $colour;
+  background-color: $lightpink;
 }
 
 @media (max-width: 550px) {
@@ -141,7 +141,7 @@ html {
   left: 50%;
   margin: 90px 0;
   transform: translate(-50%, 0);
-  box-shadow: 0 10px 0 0 #ff6873 inset;
+  box-shadow: 0 10px 0 0 $darkpink inset;
   background-color: white;
   max-width: 700px;
   padding: 30px;
@@ -225,7 +225,7 @@ ul li i {
 ul li i:before, ul li i:after {
   content: "";
   position: absolute;
-  background-color: #ff6873;
+  background-color: $darkpink;
   width: 3px;
   height: 9px;
 }
@@ -289,25 +289,25 @@ ul li input[type=checkbox]:checked ~ i:after {
 /*link styles*/
 a:link {
   text-decoration: none;
-  color:#ff6873;
-  border-bottom:2px solid #ff6873;
-  cursor:pointer;
+  color: $darkpink;
+  border-bottom: 2px solid $darkpink;
+  cursor: pointer;
 }
 
 a:visited {
-  color: #ff6873;
+  color: $darkpink;
   text-decoration: none;
 }
 
 
 a:hover {
-  color: #ff6873;
-  border-bottom:3px solid #ff6873;
+  color: $darkpink;
+  border-bottom: 3px solid $darkpink;
 }
 
 
 a:active {
-  color: #ff6873;
+  color: $darkpink;
 }
 
 footer a.icon:link {
@@ -519,7 +519,7 @@ footer {
   left: 0;
   padding: 1rem;
   text-align: center;
-  background-color: $colour;
+  background-color: $lightpink;
 }
 /*end text, div, footer, and img background styles*/
 

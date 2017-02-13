@@ -578,6 +578,9 @@ section {
     section {
       max-width: 100%;
     }
+    .uximage {
+      max-width: 80%;
+    }
   }
 
 section:last-child {
@@ -604,6 +607,10 @@ section:last-child {
 
 .uximage {
   flex-direction: column;
+  display: flex;
+  justify-content: space-around;
+  max-width: 50%;
+  margin: 0 auto;
 }
 
 .csparagraph{

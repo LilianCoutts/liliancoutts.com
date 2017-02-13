@@ -602,6 +602,10 @@ section:last-child {
   z-index: -1;
 }
 
+.uximage {
+  flex-direction: column;
+}
+
 .csparagraph{
   padding-left: 3px;
   padding-right: 3px;
